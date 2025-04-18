@@ -4,8 +4,8 @@ This project leverages GIS (Geographic Information Systems) and data science to 
 # 🔍 Key Features:
 - **Landslide Detection:** Identifies regions prone to landslides based on historical data.
 - **Safe Evacuation Zones:** Uses clustering algorithms to find and visualize safe zones for evacuation.<br> Severity Classification: Categorizes landslides by severity—Small, Medium, Large, Very Large, Catastrophic.
-- Interactive Map: Visualizes landslides across India with color-coded points based on severity.
-- AI-driven Clustering: K-means clustering to group landslides and suggest safe zones.
+- **Interactive Map:** Visualizes landslides across India with color-coded points based on severity.
+- **AI-driven Clustering:** K-means clustering to group landslides and suggest safe zones.
 
 # 🚀 Technologies Used:
 - **QGIS:** For handling GIS data and visualizing landslide regions.
@@ -31,4 +31,9 @@ git clone https://github.com/your-username/landslide-safety-zones.git
 2. Install the necessary libraries:<br>
 pip install pandas geopandas matplotlib
 3. Load the data files (shapefiles and CSV) into QGIS.
-4. Run the Python script (landslide_analysis.py) to process the data and display results.
+4. Run the Python script (gis_code.py) to process the data and display results.
+
+# 💡 Future Improvements:
+- **Real-time Data Integration:** Integrating real-time data to continuously update the landslide predictions and safe zones.
+- **Mobile App:** Developing a mobile version for users to receive notifications of risks and evacuation zones.
+- **Advanced Machine Learning Models:** To improve prediction accuracy and clustering results.
