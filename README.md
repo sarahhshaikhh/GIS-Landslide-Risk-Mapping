@@ -123,6 +123,6 @@ Generated interactive spatial maps using QGIS to visualize:
 
 B.Tech Artificial Intelligence & Data Science
 
-Interested in Data Analytics, Business Intelligence, Geospatial Analytics, and Consulting Analytics.
+Interested in Data Analytics and Business Intelligence
 
 LinkedIn: *(add link)*
