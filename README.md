@@ -94,10 +94,6 @@ Generated interactive spatial maps using QGIS to visualize:
 
 ## 📷 Dashboard / Maps
 
-### Landslide Distribution Map
-
-> *(Insert screenshot)*
-
 ### Risk Cluster Map
 
 <img width="658" height="699" alt="image" src="https://github.com/user-attachments/assets/17483853-3e1f-4e88-afd7-0119d608b17a" />
