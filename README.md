@@ -100,7 +100,8 @@ Generated interactive spatial maps using QGIS to visualize:
 
 ### Risk Cluster Map
 
-> *(Insert screenshot)*
+<img width="658" height="699" alt="image" src="https://github.com/user-attachments/assets/17483853-3e1f-4e88-afd7-0119d608b17a" />
+---
 
 ### Safe Evacuation Zones
 
