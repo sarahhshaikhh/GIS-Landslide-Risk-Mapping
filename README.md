@@ -105,7 +105,7 @@ Generated interactive spatial maps using QGIS to visualize:
 
 ### Safe Evacuation Zones
 
-> *(Insert screenshot)*
+<img width="729" height="699" alt="image" src="https://github.com/user-attachments/assets/ccc1df73-243d-41ff-9fc8-26e4f408532f" />
 
 ---
 
@@ -126,4 +126,4 @@ B.Tech Artificial Intelligence & Data Science
 
 Interested in Data Analytics and Business Intelligence
 
-LinkedIn: *(add link)*
+LinkedIn: https://www.linkedin.com/in/sarah-shaikh-07a3b3289/
