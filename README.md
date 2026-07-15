@@ -1,10 +1,10 @@
-# 🌍 Landslide Risk Mapping & Visualization
+# Landslide Risk Mapping & Visualization
 
 A geospatial analytics project that identifies landslide-prone regions across India using GIS techniques and machine learning to support disaster preparedness and evacuation planning.
 
 ---
 
-## 📌 Business Problem
+## Business Problem
 
 Landslides pose a significant threat to human life, infrastructure, and transportation in many regions of India. Traditional hazard maps often lack interactive visualizations and data-driven risk categorization that can assist authorities in identifying vulnerable areas and planning evacuation strategies.
 
@@ -12,7 +12,7 @@ This project leverages geospatial analytics and unsupervised machine learning to
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze historical landslide occurrences across India.
 - Identify high-risk geographic regions using clustering.
@@ -21,7 +21,7 @@ This project leverages geospatial analytics and unsupervised machine learning to
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses historical landslide records across India (2007–2021), including attributes such as:
 
@@ -35,7 +35,7 @@ The project uses historical landslide records across India (2007–2021), includ
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - GeoPandas
@@ -47,7 +47,7 @@ The project uses historical landslide records across India (2007–2021), includ
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data Cleaning
 
@@ -75,7 +75,7 @@ Generated interactive spatial maps using QGIS to visualize:
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 - Processed **15,000+** historical landslide records.
 - Classified landslide-prone regions into meaningful geographic clusters.
@@ -84,7 +84,7 @@ Generated interactive spatial maps using QGIS to visualize:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Several regions consistently exhibited higher landslide density due to terrain characteristics.
 - Spatial clustering improved visualization of vulnerable areas.
@@ -92,7 +92,7 @@ Generated interactive spatial maps using QGIS to visualize:
 
 ---
 
-## 📷 Dashboard / Maps
+## Dashboard / Maps
 
 ### Risk Cluster Map
 
@@ -105,7 +105,7 @@ Generated interactive spatial maps using QGIS to visualize:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Integrate real-time rainfall data.
 - Deploy interactive web GIS dashboard.
@@ -113,13 +113,3 @@ Generated interactive spatial maps using QGIS to visualize:
 - Develop predictive landslide risk models.
 
 ---
-
-## 👩‍💻 Author
-
-**Sarah Shaikh**
-
-B.Tech Artificial Intelligence & Data Science
-
-Interested in Data Analytics and Business Intelligence
-
-LinkedIn: https://www.linkedin.com/in/sarah-shaikh-07a3b3289/
